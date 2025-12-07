@@ -1,0 +1,7 @@
+# Global settings (optional)
+[*]
+trim_trailing_whitespace = true
+
+# Specific file exclusion
+[**/*.csv]
+trim_trailing_whitespace = false
