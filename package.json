@@ -7,6 +7,7 @@
     "url": "git+https://github.com/Kjuib/AdventOfCode2025.git"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "z3-solver": "^4.15.4 "
   }
 }
